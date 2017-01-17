@@ -1,2 +1,2 @@
 # datasciencecoursera
-### This is my hello world project on Coursera
+### This is my HelloWorld project on Coursera
